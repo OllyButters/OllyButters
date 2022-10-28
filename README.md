@@ -1,10 +1,7 @@
-- 👋 Hi, I’m @OllyButters
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I’m @OllyButters
 
-<!---
-OllyButters/OllyButters is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I do a lot of health software development and health data wrangling in a university environment. 
+
+You can poke around my CV at https://faji.uk/cv/index.html or explore my academic publications at https://ollybutters.github.io/puma/olly/
+
+Drop me a message at https://twitter.com/DrOllyButters  if you want to talk
